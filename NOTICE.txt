@@ -1,0 +1,6 @@
+Postevo Mail is based on MailCraft.
+Copyright (c) 2026 Zinadin Zidan and the MailCraft contributors.
+Original project: https://github.com/ZIDAN44/mailcraft
+MailCraft is dual-licensed under MIT OR Apache-2.0; both license texts are included.
+Postevo Mail uses an adapted violet envelope icon drawn by the MailCraft contributors.
+Additional third-party credits and embedded-font licenses are included in the application and its About page.
