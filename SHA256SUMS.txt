@@ -1,0 +1,13 @@
+e098cdfdafc31b4d654bc0055638777983b225ae5ead58ea553c4c307000650d  postevo-mail-0.41.0-linux-aarch64.AppImage
+d395bdb07c42845842f8355a2fd34b23040215e714ab0204dac4c8b8d92c7e5b  postevo-mail-0.41.0-linux-aarch64.deb
+245cfceab19ea6dd81048f0b6a275e74a264acf088c0f50d0566838dbcea4e18  postevo-mail-0.41.0-linux-aarch64.rpm
+2217560539e7337ee9fead6a9a467f081d640dcaa5d861570c45f1c76c7830c5  postevo-mail-0.41.0-linux-aarch64.tar.gz
+a36955d8a02c6230b59e86f4a1079ec39008bfe9a339cc4f8eea599f61ebfbdc  postevo-mail-0.41.0-linux-x86_64.AppImage
+1faab5388d235d3cee69dc0a8d314a1406b076e490ee306734dfe767af1b3ab5  postevo-mail-0.41.0-linux-x86_64.deb
+d1a47fded18cc40782ad6141fa5138c8b718eefa9f494b7e76d5869609ef61f9  postevo-mail-0.41.0-linux-x86_64.rpm
+6da5fb1d4276c2db23511d331e801d793e1a91d40d7c5b2272f6b1ddb35a9846  postevo-mail-0.41.0-linux-x86_64.tar.gz
+067662319a604012a854c80c1078d8038c0c0094fbd4256071196b8834223d25  postevo-mail-0.41.0-macos-universal.dmg
+e0d8c47f4e9ef04cf332891f24f5bfbf55533c3185f0b200aa84a81a9913021d  postevo-mail-0.41.0-windows-arm64-portable.zip
+3b77f2a818e535041d8f4d894ec33e4bf0c6f736f40980378d76e313164021c1  postevo-mail-0.41.0-windows-arm64.msi
+48ac96bf172c59c3a0c40e9741f823426ed286318894d6e578aae63e8ade1000  postevo-mail-0.41.0-windows-x64-portable.zip
+d6a3ea01e08c5a471d54dab0aded30ff6117802bc8d61d39ad6b980437c38ee2  postevo-mail-0.41.0-windows-x64.msi

@@ -32,4 +32,4 @@ Die Windows-Pakete sind noch unsigniert. Die macOS-App ist ad-hoc signiert und n
 
 Postevo Mail basiert auf [MailCraft](https://github.com/ZIDAN44/mailcraft), entwickelt von Zinadin Zidan und den MailCraft-Mitwirkenden. Lizenz: MIT OR Apache-2.0. Lizenztexte und Hinweise sind diesem Repository und den Installationspaketen beigefügt.
 
-Dieses öffentliche Repository enthält Download-Dokumentation und Releases. Die Entwicklungs-Codebasis und ihre Build-Logs werden hier nicht veröffentlicht.
+Dieses öffentliche Repository enthält Download-Dokumentation, Prüfsummen, den Veröffentlichungsablauf und Releases. Die Entwicklungs-Codebasis und ihre Build-Logs werden hier nicht veröffentlicht.
